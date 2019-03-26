@@ -1,5 +1,5 @@
 # ecp-endpoint-client
-Simple ECP endpoint client for Sesam.io powered applications
+Simple ECP (Energy Communication Platform) endpoint client for Sesam.io powered applications
 
 Env vars: 
 
